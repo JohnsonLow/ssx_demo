@@ -1,4 +1,4 @@
-package com.alpha.dao;
+package com.alpha.per.dao;
 
 public interface UserDao {
 	
